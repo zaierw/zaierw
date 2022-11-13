@@ -1,4 +1,6 @@
-- 👋 Hello , I’m Wassim Electrical Engineer.
+ Hey there,🖐
+ 🧑 About me:
+- 👋 Hello , I’m Wassim Electrical Engineer😀.
 - 👀 I’m interested in embedded systems, bare metal embedded for microcontrollers and microelectronics.
 - 🌱 I’m currently learning more and more about embedded systems and new technologies of that amazing field.
 - 🔭 Learning anything about elecrical engineering field that I can get my hands on!
