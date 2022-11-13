@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on open source embedded C projects
 - 📫 How to reach me:Follow me on GitHub 
 - 📫 Let's connect Xing: https://www.xing.com/profile/wassim_zaier/cv
--                  Linkedin: https://www.linkedin.com/in/wassim-zaier-b20268169/
+
+-  Linkedin: https://www.linkedin.com/in/wassim-zaier-b20268169/
 -  
 
 <!---
